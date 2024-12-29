@@ -6,7 +6,7 @@
   <description>Newton ROS for Simulation</description>
   <maintainer email="the.newton.capstone@gmail.com">TheNewtonCapstone</maintainer>
 
-  <license>GNU GPLv3</license>
+  <license>GPL-3.0-only</license>
 
   <url type="Documentation">TBA</url>
   <url type="Forums">TBA</url>
