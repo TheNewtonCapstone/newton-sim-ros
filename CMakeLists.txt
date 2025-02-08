@@ -22,6 +22,7 @@ set(msg_files
   msg/SimulationImuMsg.msg
   msg/SimulationContactsMsg.msg
   msg/SimulationJointsMsg.msg
+  msg/SimulationCommandMsg.msg
 )
 
 set(action_files
